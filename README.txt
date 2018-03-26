@@ -5,6 +5,10 @@ Computer Science student @Sofia University (FMI),
 Web Project.
 Theme: MEME Generator.
 
+Description: Website consisting of:
+                    *Form connected to DB, supporting registrations and log-ins. 
+                    *Web-page for creating Memes.
+
 Content:
 1. Folder "images" containing the available meme backgrounds that are being loaded for generating a meme.
 2. The "include" folder contains 4 php files that process database-related information, returning information, and redirecting to the main page.
