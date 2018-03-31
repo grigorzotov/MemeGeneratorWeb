@@ -15,6 +15,9 @@
 
 				<nav>
 				<img id="logoImg"  src="images/logo.jpg" alt="Spongebob"  />
+				
+				
+				
 				<p> Hello, <?php
 						if(isset($_SESSION['u_id'])){
 						echo $_SESSION['u_first'] ;}
@@ -25,6 +28,8 @@
 						<form action="includes/logout.inc.php" method="POST">	
 						<button type="submit" name="submit"> Log Out. </button>
 						</form> 
+				<h2 id="homeA" h> <a href="main.php" >Home </a> </h2>		
+				<h2> <a href="about.php" >About Page </a> </h2>
 				</nav>
 				
 				 <h1 >
