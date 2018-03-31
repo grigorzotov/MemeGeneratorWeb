@@ -25,3 +25,8 @@ How to use:
 2. Open the "index.php" homepage.
 3. Log in or sign up.
 4. We create our meme with the tools provided.
+
+Update 1.1:
+  *Added About and Home buttons. 
+  *Added About page.
+  *Style changes.
