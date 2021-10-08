@@ -1,6 +1,6 @@
 Creator:
 Grigor M. Zotov,
-Computer Science student @Sofia University (FMI), 
+Computer Science student @Sofia University (FMI)
 
 Web Project.
 Theme: MEME Generator.
